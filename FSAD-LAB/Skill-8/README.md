@@ -1,1 +1,0 @@
-Skill-8: JPQL & Query Methods
